@@ -1,0 +1,2 @@
+orjson==3.8.5
+packaging==23.1
