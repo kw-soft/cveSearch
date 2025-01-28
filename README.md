@@ -18,8 +18,8 @@ This Python tool searches for Common Vulnerabilities and Exposures (CVEs) affect
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/kw-soft/cvesearch.git
-    cd cvesearch
+    git clone https://github.com/kw-soft/cveSearch.git
+    cd cveSearch
     ```
 
 2. **Create a Virtual Environment** (optional but recommended):
@@ -101,7 +101,7 @@ The current CVE database includes CVEs from **2024** and **2025**, sourced from 
 ### Project Structure
 
 ```bash
-cvesearch/
+cveSearch/
 ├── main.py        # Main script with the search functionality
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project description
